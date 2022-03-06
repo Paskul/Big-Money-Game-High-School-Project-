@@ -323,7 +323,7 @@ public class GameGUI extends JFrame implements ActionListener
 
     gameFrame.setTitle("Game"); // Frame name
     // gameFrame.setSize(843, 420);
-    gameFrame.setSize(900, 460); // Sets frame dimension
+    gameFrame.setSize(859, 457); // Sets frame dimension
     gameFrame.setVisible(true); // Maxes frame oppacity
     gameFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Stops program when window close
     gameFrame.setResizable(false); // Prevent frame from resizing
