@@ -1,1 +1,1 @@
-# Big-money-game
+# Big Money Game (High School Project)
